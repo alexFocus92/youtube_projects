@@ -1,5 +1,10 @@
 # youtube projects
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alexFocus92/youtube_projects/main/Portada_notebook.png" width="600" />
+</p>
+
+
 # 📚 AlexFocus — Notebooks de los vídeos de YouTube
 
 Bienvenido al repositorio donde comparto **todo el código en formato Jupyter Notebook** de los vídeos que publico en mi canal de YouTube **[AlexFocus](https://www.youtube.com/channel/UCbUH8DcP1Gn-D0xLB9SoP6Q)** ([@alexfocus8](https://www.youtube.com/@alexfocus8)).
